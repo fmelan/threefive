@@ -3,8 +3,8 @@
 def get_threefive(start, end):
     """
     Returns list of values for the range of integers from start to end. If the number is divisible by three, then in the
-    list will be string "Three". If the number is divisible by five, then in the list will be string "Five". If the
-    number is divisible both by three and five, then in the list will be the string "ThreeFive".
+    list will be placed the string "Three". If the number is divisible by five, then in the list will be the string
+    "Five". If the number is divisible both by three and five, then in the list will be the string "ThreeFive".
     :param start: first number
     :param end: last number (inclusive)
     :return: list of integers or strings according to the algorithm
